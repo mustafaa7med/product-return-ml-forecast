@@ -1,4 +1,5 @@
 # Project: Product Returns Analysis and ML Time-Series Forecasting
+Predicting product returns using machine learning to help e-commerce businesses minimize losses and optimize logistics.
 ## Objective:
 A company seeks to analyze product returns for three products after experiencing a high volume of returns. They aim to determine whether this trend is driven by customer behavior or potential issues with the products. 
 Therefore, this project focuses on analyzing product returns and implementing ML-based forecasting to:
@@ -23,7 +24,7 @@ Therefore, this project focuses on analyzing product returns and implementing ML
 - ARIMA
 - Random Forest
 
-### Analytical Approach:
+### Project Flow:
 - Exploratory Data Analysis (EDA)
 - Data Processing
 - Data Analysis
