@@ -43,3 +43,8 @@ Therefore, this project focuses on analyzing product returns and implementing ML
 
 ------------
 *Full Project can be accessed through this link:* [Product_Returns_ML_Forecasting.ipynb](https://github.com/mustafaa7med/product-return-ml-forecast/blob/main/Product_Returns_ML_Forecasting.ipynb)
+
+------------
+## 🔗 Get In Touch
+<a href="mailto:mustafaa7med@gmail.com"><img alt="Gmail" title="Moustafa Ahmed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaa7med)
